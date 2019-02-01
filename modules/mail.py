@@ -73,7 +73,7 @@ def check_mail():
 	ServerSmtp = input(W+'Hunner»Mail»ServerSmtp»'+E)
 	if int(ServerSmtp) == 1:
 		serv = 'smtp.gmail.com'
-		port = 587
+		port = 465
 	elif int(ServerSmtp) == 2:
 		serv = 'smtp-mail.outlook.com'
 		port = 587
