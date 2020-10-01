@@ -1,6 +1,13 @@
-# Hunner
+#  THE Hunner
 Hacking framework
-This framework is designed to perform penetration testing.
+This framework is designed to perform penetration testing.   
+     
+     EASY INSTALLATION AND A POWERFUL TOOL ...
+***PERFORM BRUTEFORCE WITH THE MOST POWERFUL TOOL *** 
+
+            "THE HUNNER"
+       
+
 Its functions:
 1) Scan sql vulnerability
 2) Scan xxs vulnerability
